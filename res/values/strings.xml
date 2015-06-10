@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Popular Movies App</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Sort By</string>
+    <string name="popular">Sort By Most Popular Ascending</string>
+    <string name="rating">Sort By User Rating Ascending</string>
+    <string name="populardsc">Sort By Most Popular Descending</string>
+    <string name="ratingdsc">Sort By User Rating Descending</string>
+    <string name="moviesPoster">Movie Poster</string>
+    <string name="api_key">a2d158c4f2eee1ef749fd964709ce8ba</string>
+    <string name="title_activity_movie_detail">Movie Detail</string>
+    <string name="cover">Movie Poster</string>
+	<string name="notfound">Movies Not Found</string>
+</resources>

@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.popularmoviesapp.MainActivity" >
+
+    <item
+        android:id="@+id/menu_popular"
+        android:orderInCategory="100"
+        android:title="@string/popular"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/menu_rating"
+        android:orderInCategory="102"
+        android:title="@string/rating"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/menu_populardsc"
+        android:orderInCategory="101"
+        android:title="@string/populardsc"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/menu_ratingdsc"
+        android:orderInCategory="103"
+        android:title="@string/ratingdsc"
+        app:showAsAction="never"/>
+
+</menu>
